@@ -1,0 +1,14 @@
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\bin\Debug\Examen-IPHoradesubida.exe.config
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\bin\Debug\Examen-IPHoradesubida.exe
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\bin\Debug\Examen-IPHoradesubida.pdb
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\bin\Debug\Examen-IPHoradesubida.xml
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.vbprojAssemblyReference.cache
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen_IPHoradesubida.Form1.resources
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen_IPHoradesubida.Resources.resources
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.vbproj.GenerateResource.cache
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.vbproj.CoreCompileInputs.cache
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.exe
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.xml
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen-IPHoradesubida.pdb
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen_IPHoradesubida.Formulario.resources
+C:\Users\Tinoco\source\repos\Examen-IPHoradesubida\Examen-IPHoradesubida\obj\Debug\Examen_IPHoradesubida.Bienvenido.resources
